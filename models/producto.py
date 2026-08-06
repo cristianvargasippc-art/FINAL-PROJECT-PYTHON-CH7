@@ -30,3 +30,4 @@ class Producto:
             Verifica si existe stock suficiente
         """
         print("Método hay_stock() pendiente")
+    
